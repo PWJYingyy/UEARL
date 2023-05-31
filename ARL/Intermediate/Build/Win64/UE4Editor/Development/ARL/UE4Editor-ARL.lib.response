@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ARL.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEStudy\ARL\UEARL\ARL\Intermediate\Build\Win64\ARLEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UEStudy\ARL\UEARL\ARL\Intermediate\Build\Win64\UE4Editor\Development\ARL\ARL.cpp.obj"
+"D:\UEStudy\ARL\UEARL\ARL\Intermediate\Build\Win64\UE4Editor\Development\ARL\ARLGameModeBase.cpp.obj"
+"D:\UEStudy\ARL\UEARL\ARL\Intermediate\Build\Win64\UE4Editor\Development\ARL\ARL.init.gen.cpp.obj"
+"D:\UEStudy\ARL\UEARL\ARL\Intermediate\Build\Win64\UE4Editor\Development\ARL\ARLGameModeBase.gen.cpp.obj"
+"D:\UEStudy\ARL\UEARL\ARL\Intermediate\Build\Win64\UE4Editor\Development\ARL\Default.rc2.res"
+/OUT:"D:\UEStudy\ARL\UEARL\ARL\Intermediate\Build\Win64\UE4Editor\Development\ARL\UE4Editor-ARL.lib"

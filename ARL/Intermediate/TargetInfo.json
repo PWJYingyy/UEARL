@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ARL",
+			"Path": "D:\\UEStudy\\ARL\\UEARL\\ARL\\Source\\ARL.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ARLEditor",
+			"Path": "D:\\UEStudy\\ARL\\UEARL\\ARL\\Source\\ARLEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

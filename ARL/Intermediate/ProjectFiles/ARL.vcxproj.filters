@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ARL.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8DB63FA2-E2EE-4B2A-AEA8-CD5AF72B36DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ARL.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ARLEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{EC242CB4-D4AC-4F1B-B21C-9F72320D29B7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ARL">
+      <UniqueIdentifier>{7B69BEFD-9F84-4A4A-8B48-D17029EB2BBE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ARL\ARL.Build.cs">
+      <Filter>Source\ARL</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ARL\ARL.cpp">
+      <Filter>Source\ARL</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ARL\ARL.h">
+      <Filter>Source\ARL</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ARL\ARLGameModeBase.cpp">
+      <Filter>Source\ARL</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ARL\ARLGameModeBase.h">
+      <Filter>Source\ARL</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

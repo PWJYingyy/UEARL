@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UEStudy\\ARL\\UEARL\\ARL\\Source\\ARL\\ARL.Build.cs",
+		"D:\\UEStudy\\ARL\\UEARL\\ARL\\Source\\ARL.Target.cs",
+		"D:\\UEStudy\\ARL\\UEARL\\ARL\\Source\\ARLEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
